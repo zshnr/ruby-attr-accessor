@@ -1,0 +1,1 @@
+require 'rewrite_attr'

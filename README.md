@@ -1,0 +1,1 @@
+An attempt to re-write the attribute accessor method of Ruby in order to understand how it works
